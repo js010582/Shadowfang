@@ -86,6 +86,23 @@ GenerateClassCluster=0
 DocumentUniqueId=EYPTFTXG
 
 [Document3]
+DocumentPath=Shadowfang_Proj.SCHLIB
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=BECDKNNC
+
+[Document4]
 DocumentPath=PCB1.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -100,24 +117,7 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=EFNJAPMV
-
-[Document4]
-DocumentPath=Project Logs for Shadowfang_Proj\Shadowfang_Proj.SCHLIB
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=0
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=ZGFWNEVZ
+DocumentUniqueId=SHECTAFR
 
 [Configuration1]
 Name=Sources
