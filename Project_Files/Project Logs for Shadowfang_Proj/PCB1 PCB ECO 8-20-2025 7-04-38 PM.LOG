@@ -1,0 +1,28 @@
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=RGB(255, 110, 110)
+Added Member To Class: ClassName=ATMega32U4 Member=Component C1 CAP GENERIC 0603
+Added Member To Class: ClassName=ATMega32U4 Member=Component C2 CAP GENERIC 0603
+Added Member To Class: ClassName=ATMega32U4 Member=Component C3 CAP GENERIC 0603
+Added Member To Class: ClassName=ATMega32U4 Member=Component C4 CAP GENERIC 0603
+Added Member To Class: ClassName=ATMega32U4 Member=Component C5 CAP GENERIC 0603
+Added Member To Class: ClassName=ATMega32U4 Member=Component C6 CAP GENERIC 0603
+Added Member To Class: ClassName=ATMega32U4 Member=Component C7 CAP GENERIC 0603
+Added Member To Class: ClassName=ATMega32U4 Member=Component C8 CAP GENERIC 0603
+Added Member To Class: ClassName=ATMega32U4 Member=Component D1 Red
+Added Member To Class: ClassName=ATMega32U4 Member=Component D2 1N5819HW-7-F
+Added Member To Class: ClassName=ATMega32U4 Member=Component D3 Green
+Added Member To Class: ClassName=ATMega32U4 Member=Component D4 Yellow
+Added Member To Class: ClassName=ATMega32U4 Member=Component F1 0805L050WR
+Added Member To Class: ClassName=ATMega32U4 Member=Component JP6 22-28-4146
+Added Member To Class: ClassName=ATMega32U4 Member=Component JP7 22-28-4146
+Added Member To Class: ClassName=ATMega32U4 Member=Component R1 0
+Added Member To Class: ClassName=ATMega32U4 Member=Component R2 GENERIC 0603 RESISTOR
+Added Member To Class: ClassName=ATMega32U4 Member=Component R3 GENERIC 0603 RESISTOR
+Added Member To Class: ClassName=ATMega32U4 Member=Component R4 GENERIC 0603 RESISTOR
+Added Member To Class: ClassName=ATMega32U4 Member=Component R5 GENERIC 0603 RESISTOR
+Added Member To Class: ClassName=ATMega32U4 Member=Component R6 GENERIC 0603 RESISTOR
+Added Member To Class: ClassName=ATMega32U4 Member=Component R7 GENERIC 0603 RESISTOR
+Added Member To Class: ClassName=ATMega32U4 Member=Component R8 0
+Added Member To Class: ClassName=ATMega32U4 Member=Component U1 MIC5219-5.0YM5-TR
+Added Member To Class: ClassName=ATMega32U4 Member=Component U2 ATmega32U4-AU
+Added Member To Class: ClassName=ATMega32U4 Member=Component USB 217179-0001
+Added Member To Class: ClassName=ATMega32U4 Member=Component Y1 ABM8-16.000MHZ-B2-T
