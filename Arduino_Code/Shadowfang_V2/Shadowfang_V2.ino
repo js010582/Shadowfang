@@ -1,6 +1,6 @@
 #include <Mouse.h>
 
-const int BUTTON_PIN = 6;   // Button to GND (INPUT_PULLUP)
+const int BUTTON_PIN = 12;   // Button to GND (INPUT_PULLUP)
 const int LED_PIN    = 9;  // External LED (sinking: LOW=ON, HIGH=OFF)
 
 const unsigned long DEBOUNCE_MS   = 35;
